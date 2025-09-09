@@ -22,3 +22,4 @@ function readAFile(filePath) {
 }
 
 writeAFile("myFile.txt", "Hi, hey, hello.");
+readAFile("myFile.txt");
