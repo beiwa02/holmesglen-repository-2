@@ -9,3 +9,7 @@ let anotherStringSubstring = anotherString.substring(6, 9);
 
 console.log(myStringSlice);
 console.log(anotherStringSubstring);
+
+// Q3.4: Upper- and lowercase
+console.log(myName.toUpperCase());
+console.log(myName.toLowerCase());
