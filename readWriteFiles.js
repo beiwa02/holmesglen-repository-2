@@ -20,3 +20,5 @@ function readAFile(filePath) {
     console.log("File: ", data);
   })
 }
+
+writeAFile("myFile.txt", "Hi, hey, hello.");
